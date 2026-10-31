@@ -1,0 +1,195 @@
+{
+  "cities": {
+    "osm_r2555133": {
+      "id": "osm_r2555133",
+      "name": "Москва",
+      "latitude": 55.7505412,
+      "longitude": 37.6174782,
+      "timezone": "auto",
+      "region": "Москва",
+      "country": "ru"
+    },
+    "osm_r2048099": {
+      "id": "osm_r2048099",
+      "name": "Биробиджан",
+      "latitude": 48.79329,
+      "longitude": 132.9269836,
+      "timezone": "auto",
+      "region": "Еврейская автономная область",
+      "country": "ru"
+    },
+    "osm_r3476238": {
+      "id": "osm_r3476238",
+      "name": "Армавир",
+      "latitude": 44.9993585,
+      "longitude": 41.1294061,
+      "timezone": "auto",
+      "region": "Краснодарский край",
+      "country": "ru"
+    },
+    "osm_w148508807": {
+      "id": "osm_w148508807",
+      "name": "Армавир",
+      "latitude": 40.1555485,
+      "longitude": 44.0387565,
+      "timezone": "auto",
+      "region": "Армавирская область",
+      "country": "am"
+    },
+    "osm_r1751445": {
+      "id": "osm_r1751445",
+      "name": "Новосибирск",
+      "latitude": 55.0288307,
+      "longitude": 82.9226887,
+      "timezone": "auto",
+      "region": "Новосибирская область",
+      "country": "ru"
+    }
+  },
+  "version": 1,
+  "project_id": "9a4838a91c7c43c9",
+  "account_id": 417558332,
+  "bot_id": 1853641903,
+  "folder_id": 3,
+  "folder_ready": true,
+  "cooldown_until": 0.0,
+  "channels": {
+    "osm_r2555133:weather": {
+      "temporary_title": "CFP 9a4838a91c7c43c9 osm_r2555133:weather",
+      "channel_id": 4467220468,
+      "access_hash": -379374293712258004,
+      "pending": false,
+      "ready": true
+    },
+    "khabarovsk:weather": {
+      "temporary_title": "CFP 9a4838a91c7c43c9 khabarovsk:weather",
+      "channel_id": 4399951780,
+      "access_hash": 3554145241389834374,
+      "pending": false,
+      "ready": true
+    },
+    "osm_r2048099:weather": {
+      "temporary_title": "CFP 9a4838a91c7c43c9 osm_r2048099:weather",
+      "channel_id": 4399400187,
+      "access_hash": -521389636293153081,
+      "pending": false,
+      "ready": true
+    },
+    "osm_r3476238:weather": {
+      "temporary_title": "CFP 9a4838a91c7c43c9 osm_r3476238:weather",
+      "channel_id": 4459753056,
+      "access_hash": 6490100481054717033,
+      "pending": false,
+      "ready": true
+    },
+    "osm_r1751445:weather": {
+      "temporary_title": "CFP 9a4838a91c7c43c9 osm_r1751445:weather",
+      "channel_id": 3895418837,
+      "access_hash": 9158363730907700693,
+      "pending": false,
+      "ready": true
+    }
+  },
+  "invites": {
+    "osm_r2555133": {
+      "url": "https://t.me/addlist/LFiZczK2QExiYzRi",
+      "pending": false,
+      "services": [
+        "weather"
+      ]
+    },
+    "khabarovsk": {
+      "url": "https://t.me/addlist/WIgcHmpJ6dM1MDEy",
+      "pending": false,
+      "services": [
+        "weather"
+      ]
+    },
+    "osm_r2048099": {
+      "url": "https://t.me/addlist/wmBKCLiky_Y1ZGVi",
+      "pending": false,
+      "services": [
+        "weather"
+      ]
+    },
+    "osm_r1751445": {
+      "url": null,
+      "pending": false,
+      "services": [
+        "weather"
+      ]
+    }
+  },
+  "weather": {
+    "osm_r2555133": {
+      "weekly": {
+        "message_id": 3,
+        "pending_text": null
+      },
+      "brief": {
+        "message_id": 4,
+        "pending_text": null
+      },
+      "next_update": 1789322703.0169082,
+      "last_success": 1789320903.0169082,
+      "failures": 0,
+      "pinned": false
+    },
+    "khabarovsk": {
+      "weekly": {
+        "message_id": 3,
+        "pending_text": null
+      },
+      "brief": {
+        "message_id": 4,
+        "pending_text": null
+      },
+      "next_update": 1789322702.3413372,
+      "last_success": 1789320902.3413372,
+      "failures": 0,
+      "pinned": false
+    },
+    "osm_r2048099": {
+      "weekly": {
+        "message_id": 3,
+        "pending_text": null
+      },
+      "brief": {
+        "message_id": 4,
+        "pending_text": null
+      },
+      "next_update": 1789322703.616159,
+      "last_success": 1789320903.616159,
+      "failures": 0,
+      "pinned": false
+    },
+    "osm_r3476238": {
+      "weekly": {
+        "message_id": 3,
+        "pending_text": null
+      },
+      "brief": {
+        "message_id": 4,
+        "pending_text": null
+      },
+      "next_update": 1789322704.2528586,
+      "last_success": 1789320904.2528586,
+      "failures": 0,
+      "pinned": false
+    },
+    "osm_r1751445": {
+      "weekly": {
+        "message_id": 3,
+        "pending_text": null
+      },
+      "brief": {
+        "message_id": 4,
+        "pending_text": null
+      },
+      "next_update": 1789322045.1366553,
+      "last_success": 1789320245.1366553,
+      "failures": 0,
+      "pinned": false
+    }
+  }
+}
